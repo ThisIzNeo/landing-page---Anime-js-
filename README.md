@@ -8,7 +8,7 @@ This is a simple project created to explore and demonstrate the capabilities of 
 - A clean and minimalistic design.
 - Lightweight and easy to load.
 
-## Features
+## Alert
 
 ```
 Just as alert this website isnt responisve it was just to try anime.js Library
